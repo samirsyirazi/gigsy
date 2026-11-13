@@ -1,5 +1,4 @@
 # Capstone Project for FSD09 Team 1
----
 ### Product Brief
 * Site Name (Logo)
 * Objective
@@ -14,3 +13,5 @@
 * Listing Details
 * Others (TBC)
 * Authentication (Login/Signup)
+### Team Members 
+* Adeline
