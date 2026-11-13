@@ -15,3 +15,4 @@
 * Authentication (Login/Signup)
 ### Team Members 
 * Adeline
+* Doreen
